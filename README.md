@@ -15,13 +15,10 @@
   <em>E toda jornada precisa de um pouco de café. ☕</em>
 </p>
 
-<!-- BANNER OPCIONAL
-     Salve seu banner PNG como assets/torre-banner.png e remova os comentários
-     desta seção para exibi-lo no topo do perfil.
+
 <p align="center">
   <img src="./assets/torre-banner.png" alt="Torre do Arquimago" width="100%">
 </p>
--->
 
 <hr>
 
