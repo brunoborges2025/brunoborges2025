@@ -21,7 +21,7 @@
 </p>
 
 <hr>
-<p align="center">
+
 <h2>📜 Ficha do Arquimago</h2>
 
 <table width="100%">
@@ -43,7 +43,7 @@
   <tr><td>🖥️ Resistência a telas azuis</td><td>Imune</td></tr>
   <tr><td>🌙 Visão noturna</td><td>00h–04h</td></tr>
 </table>
-</p>
+
 <h3>🔮 Estado da Mana</h3>
 
 <p><strong>Mana: -5 · Reservas arcanas em níveis críticos.</strong></p>
