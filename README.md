@@ -136,13 +136,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO/SEU_USUARIO/issues/new?template=cafe.yml">
+  <a href="https://github.com/brunoborges2025/brunoborges2025/issues/new?template=cafe.yml">
     <img src="https://img.shields.io/badge/☕_OFERECER_UM_CAFÉ-AJUDE_O_ARQUIMAGO-8B5E3C?style=for-the-badge" alt="Oferecer um café virtual ao Arquimago">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSEU_USUARIO%2FSEU_USUARIO%2Fmain%2Fcafe-counter.json&amp;style=for-the-badge" alt="Contador de cafés oferecidos ao Arquimago">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbrunoborges2025%2Fbrunoborges2025%2Fmain%2Fcafe-counter.json&amp;style=for-the-badge" alt="Contador de cafés oferecidos ao Arquimago">
 </p>
 
 <p align="center">
