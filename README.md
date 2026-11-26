@@ -79,7 +79,7 @@
         <img src="https://img.shields.io/badge/n8n-222222?style=flat-square&amp;logo=n8n&amp;logoColor=EA4B71" alt="n8n">
         <img src="https://img.shields.io/badge/APIs-222222?style=flat-square&amp;logo=fastapi&amp;logoColor=009688" alt="APIs">
         <img src="https://img.shields.io/badge/IA-222222?style=flat-square&amp;logo=googlegemini&amp;logoColor=8E75B2" alt="Inteligência Artificial">
-        <img src="https://img.shields.io/badge/GitHub_Actions-222222?style=flat-square&amp;logo=githubactions&amp;logoColor=2088FF" alt="GitHub Actions">
+        
       </p>
       <p><em>Ferramentas em uso, estudo e experimentação. O arsenal está sempre evoluindo.</em></p>
     </td>
@@ -105,8 +105,8 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Imob Mark</strong></td>
-    <td>Padronização de fotos imobiliárias, logotipos e marca d'água.</td>
+    <td><strong>Seek A.I</strong></td>
+    <td>Sistema de captação imobiliária</td>
     <td align="center">🛠️ Em evolução</td>
   </tr>
   <tr>
@@ -158,5 +158,5 @@
 <p align="center">
   <em>“Toda grande criação começa com uma ideia, curiosidade e uma quantidade suspeita de café.”</em>
   <br><br>
-  <sub>BRUNO BORGES · THE VIBE CODE CHRONICLES</sub>
+  <sub>THE VIBE CODE CHRONICLES</sub>
 </p>
