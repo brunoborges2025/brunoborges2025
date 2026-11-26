@@ -28,9 +28,11 @@
   <tr>
     <th align="left" width="38%">Atributo</th>
     <th align="left" width="30%">Nível</th>
-    <td rowspan="11" width="32%" align="center" valign="middle">
-      <img src="./assets/ficha-ilustracao.PNG" width="230" alt="O Arquimago em seu laboratório">
-    </td>
+  
+<td rowspan="11" width="32%" align="center" valign="middle" style="padding: 0;">
+<img src="./assets/ficha-ilustracao.PNG" width="100%" alt="O Arquimago em seu laboratório" style="display: block; width: 100%; height: auto;">
+</td>
+    
   </tr>
   <tr><td>🧙 Classe</td><td>Arquimago Vibe Code</td></tr>
   <tr><td>⭐ Nível</td><td>31</td></tr>
@@ -81,9 +83,11 @@
       </p>
       <p><em>Ferramentas em uso, estudo e experimentação. O arsenal está sempre evoluindo.</em></p>
     </td>
-    <td width="32%" align="center" valign="middle">
-      <img src="./assets/arsenal-ilustracao.png" width="230" alt="Ferramentas e equipamentos do Arquimago">
-    </td>
+  
+  <td width="32%" align="center" valign="middle" style="padding: 0;">
+  <img src="./assets/arsenal-ilustracao.png" width="100%" alt="Ferramentas e equipamentos do Arquimago" style="display: block; width: 100%; height: auto;">
+</td>
+    
   </tr>
 </table>
 
