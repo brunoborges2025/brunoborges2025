@@ -29,7 +29,7 @@
     <th align="left" width="38%">Atributo</th>
     <th align="left" width="30%">Nível</th>
     <td rowspan="11" width="32%" align="center" valign="middle">
-      <img src="./assets/ficha-ilustracao.png" width="230" alt="O Arquimago em seu laboratório">
+      <img src="./assets/ficha-ilustracao.PNG" width="230" alt="O Arquimago em seu laboratório">
     </td>
   </tr>
   <tr><td>🧙 Classe</td><td>Arquimago Vibe Code</td></tr>
