@@ -84,7 +84,7 @@
     </td>
   
   <td width="32%" align="center" valign="middle" style="padding: 0;">
-  <img src="./assets/arsenal-ilustracao.png" width="100%" alt="Ferramentas e equipamentos do Arquimago" style="display: block; width: 100%; height: auto;">
+  <img src="./assets/arsenal-ilustracao.png" width="100%" alt="Ferramentas e equipamentos do Arquimago" style="display: block; width: 70%; height: auto;">
 </td>
     
   </tr>
